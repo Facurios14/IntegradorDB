@@ -2,7 +2,6 @@
 node_modules/
 mongo/
 # Archivos de Entorno
-.env
 
 # Logs
 npm-debug.log*
